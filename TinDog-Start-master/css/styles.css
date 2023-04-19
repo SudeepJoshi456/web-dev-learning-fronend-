@@ -83,6 +83,7 @@ h1{
     margin: 5% 45%;
 }
 
+
 .icon:hover{
     color: #ff4c68;
 }
@@ -102,7 +103,7 @@ h1{
     margin: 20px;
 }
 
-.testimonial-carousel{
+.carousel-item{
     padding: 6% 15%;
 }
 
