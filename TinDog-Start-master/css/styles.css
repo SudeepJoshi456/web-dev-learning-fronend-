@@ -120,3 +120,25 @@ h1{
     margin: 15px 15px;
 }
 
+/*PRICING SECTION */
+
+#pricing{
+    margin : 5% 0;
+}
+
+.pricing-head{
+    text-align: center;
+}
+
+
+/* footer  */
+#footer{
+    margin: 0 0;
+    padding-bottom: 0;
+    background-color: #ff4c68;
+}
+.card-footer{
+    /* padding: 0; */
+    text-align: center;
+}
+
